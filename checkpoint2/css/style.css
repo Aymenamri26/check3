@@ -1,0 +1,49 @@
+body{
+
+    background-color: mediumturquoise;
+}
+
+{
+
+    background-color: red
+}
+
+h1{
+    font-size: 2em;
+ border-style: solid;
+ border-color: violet;
+ border-width: 6px;
+
+
+}
+h1{
+
+    color: white;
+}
+button:hover {
+background-color: red ;
+
+}
+#aymen{
+
+    color: yellow;
+    background-color: tomato;
+    padding-left: 100px;
+    margin: 10px 20px 0px 0px;
+
+}
+
+   #aymen:hover{
+background-color: rgb(167, 39, 199) ;
+    
+   }
+
+p:hover{
+
+    display: none;
+}
+
+
+
+
+   }
